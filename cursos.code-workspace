@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.startupEditor": "welcomePage",
+		"workbench.statusBar.visible": true,
+		"editor.minimap.enabled": true,
+    	"workbench.colorTheme": "Default Dark+"
+	}
+}
