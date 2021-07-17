@@ -29,7 +29,7 @@ export default function Home() {
   const [comunidades, setComunidades] = React.useState([{
     id: '131156564654646546432321',
     title: 'GitHub',
-    image: 'https://github.githubassets.com/images/modules/open_graph/github-mark.png'
+    image: 'https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2020/06/github.jpg'
   }]);
   // const comunidades = comunidades[0];
   // const alteradorDeComunidades/setComunidades = comunidades[1];
