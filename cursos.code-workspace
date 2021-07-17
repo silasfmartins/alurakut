@@ -5,9 +5,10 @@
 		}
 	],
 	"settings": {
-		"workbench.startupEditor": "welcomePage",
 		"workbench.statusBar.visible": true,
 		"editor.minimap.enabled": true,
-    	"workbench.colorTheme": "Default Dark+"
+    	"workbench.colorTheme": "Default Dark+",
+		"workbench.startupEditor":"welcomePage"
+
 	}
 }
