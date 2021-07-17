@@ -28,8 +28,8 @@ export default function Home() {
   const githubUser = 'silasfmartins';
   const [comunidades, setComunidades] = React.useState([{
     id: '131156564654646546432321',
-    title: 'Stack Overflow',
-    image: `https://media-exp3.licdn.com/dms/image/C4E0BAQEooBvMO2kBVg/company-logo_200_200/0/1519880697944?e=2159024400&v=beta&t=cVe1_xseidAuya3zcvZMDT9LkbCjNcsm_R0wYqoJ7xo`
+    title: 'GitHub',
+    image: 'https://github.githubassets.com/images/modules/open_graph/github-mark.png'
   }]);
   // const comunidades = comunidades[0];
   // const alteradorDeComunidades/setComunidades = comunidades[1];
